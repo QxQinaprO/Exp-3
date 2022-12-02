@@ -1,4 +1,4 @@
-//Calculate 1!+2!+...+n!.
+//Input 'n', calculate 1!+2!+...+n!.
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 int main()
